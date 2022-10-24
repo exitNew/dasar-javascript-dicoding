@@ -1,0 +1,2 @@
+npm run test __test__/gradeCalculation.test.js
+npm run test -- --coverage
